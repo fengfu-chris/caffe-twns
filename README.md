@@ -1,5 +1,5 @@
-Ternary Weight Networks with Caffe
+Ternary Weight Networks
 ===
-# Ternary Weight Networks
 [arXiv paper](https://arxiv.org/abs/1605.04711) 
-[report](http://toutiao.com/i6289006811508900354/)
+
+[衣+科学家提出三值神经网络,让AI无处不在](http://toutiao.com/i6289006811508900354/)
