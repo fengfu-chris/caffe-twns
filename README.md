@@ -1,6 +1,6 @@
 Ternary Weight Networks
 ===
-Codes will be made public soon.
+Codes will be made public available soon.
 
 [arXiv paper](https://arxiv.org/abs/1605.04711) 
 
