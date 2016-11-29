@@ -34,6 +34,7 @@ $./examples/mnist/create_mnist.sh
 $cd examples/mnist  
 $sh train_lenet_tn.sh
 
+5. Run-time usage (to be added)
 
 ## Contact
 
