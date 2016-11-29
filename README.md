@@ -1,7 +1,12 @@
 Ternary Weight Networks
 ===
-Codes will be made public available soon.
+This repository implements the benchmarks in our paper ``Ternary Weight Networks'' which was accepted by the 1st NIPS Workshop on Efficient Methods for Deep Neural Networks (EMDNN), 2016. To cite our work, please add the following item to your bibtex:
 
-## Citations
-[arXiv paper](https://arxiv.org/abs/1605.04711) 
+@article{li2016ternary,
+  title={Ternary Weight Networks},
+  author={Li, Fengfu and Liu, Bin},
+  journal={arXiv preprint arXiv:1605.04711},
+  year={2016}
+}
+
 
