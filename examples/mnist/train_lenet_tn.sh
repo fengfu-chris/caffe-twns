@@ -3,7 +3,7 @@
 CAFFE_ROOT=../../
 GPU_ID=0
 PRECISION=ternary # other choices: binary, single (default)
-DELTA=7
+DELTA=7  # will divide 10 in the ternary function 
 DEBUG=no
 PREFFIX='lenet_tn'
 SOLVER=${PREFFIX}_solver.prototxt 
