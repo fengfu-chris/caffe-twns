@@ -31,7 +31,7 @@ $./examples/mnist/create_mnist.sh
 3.2 setting the DELTA value (0.7 default)  
 
 4. Training  
-$cd examples/mnist
+$cd examples/mnist  
 $sh train_lenet_tn.sh
 
 
