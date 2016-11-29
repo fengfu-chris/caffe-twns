@@ -1,6 +1,6 @@
-Ternary Weight Networks (TWNs)
-===
-This repository implements the benchmarks in our paper "Ternary Weight Networks" which was accepted by the 1st NIPS Workshop on Efficient Methods for Deep Neural Networks (EMDNN), 2016. 
+# Ternary Weight Networks (TWNs)
+
+This repository implements the benchmarks in our paper "Ternary Weight Networks" which was accepted by the 1st NIPS Workshop on Efficient Methods for Deep Neural Networks (EMDNN), 2016.  
 
 Please cite TWNs in your publications if it helps your research:
 
@@ -10,5 +10,19 @@ Please cite TWNs in your publications if it helps your research:
       Title = {Ternary Weight Networks},
       Year = {2016}
     }
+
+## Build
+
+Dependencies are identical with the master branch of Caffe. Check out [project site](http://caffe.berkeleyvision.org) for detailed instructions.
+
+NOTE:  
+1. Some layers may only have GPU implementation. Thus, CUDA support and GPU devices are required.  
+2. The Makefile has been modified to accomodate Ubuntu 16.04. For previous version of Ubuntu, please replace the Makefile with the original one.
+
+## Steps to run a demo
+
+## Contact
+
+You are welcome to send message to (lifengfu12@mails.ucas.ac.cn) if you have any issue on this code.
 
 
